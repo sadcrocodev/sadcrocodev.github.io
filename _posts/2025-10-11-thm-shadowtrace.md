@@ -10,6 +10,8 @@ image:
 ## Overview
 **Shadow Trace** is a relatively simple room that starts with analyzing a binary and then moves on to inspecting alerts containing **PowerShell** and **JavaScript** code. Some basic knowledge of these languages is helpful, along with familiar analysis tools.
 
+**Room Link:** [Shadow Trace](https://tryhackme.com/room/shadowtrace){:target="_blank" rel="noopener noreferrer"}
+
 ## Analyzing the Binary
 After booting the provided virtual machine, we see a binary called **windows-update.exe** on the desktop. This is the binary we need to analyze. The VM also includes analysis tools in the **DFIR Tools** folder, which is accessible via the desktop shortcut.
 
